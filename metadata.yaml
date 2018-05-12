@@ -1,0 +1,30 @@
+_repo: John-Dene-of-Toronto--A-Comedy-of-Whitehall_33277
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jenkins, Herbert George
+    birthdate: 1876
+    deathdate: 1923
+    gutenberg_agent_id: '1211'
+    url: http://www.gutenberg.org/2009/agents/1211
+    wikipedia: http://en.wikipedia.org/wiki/Herbert_George_Jenkins
+description: ''
+gutenberg_issued: '2010-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33277'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Secret service -- Fiction'
+- !lcsh 'Missing persons -- Fiction'
+- !lcsh 'Inventors -- Fiction'
+- !lcsh 'Whitehall (London, England) -- Fiction'
+- !lcc 'PR'
+title: 'John Dene of Toronto: A Comedy of Whitehall'
+url: http://www.gutenberg.org/ebooks/33277
